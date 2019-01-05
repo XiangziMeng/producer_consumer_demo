@@ -1,7 +1,7 @@
 This is my python implementation for using producer-consumer model with multithreading, which is
 like a production line with multiple consumers and producers.
 
-###Data structures:
+*Data structures:
 
 production_input: Queue (threading safe)
 

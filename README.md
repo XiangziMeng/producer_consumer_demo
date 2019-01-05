@@ -2,6 +2,7 @@ This is my python implementation for using producer-consumer model with multithr
 like a production line with multiple consumers and producers.
 
 Data structures:
+
 production_input: Queue (threading safe)
 consumption_input: Queue (threading safe)
 producer: an instance of MyProducer inherent from Producer with methods produce and run

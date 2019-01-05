@@ -1,4 +1,4 @@
-# Python implementation of producer-consumer model with multithreading
+# Python implementation of producer-consumer solution with multithreading
 
 ### Introduction
 This is my python implementation for producer-consumer model with multithreading, which is

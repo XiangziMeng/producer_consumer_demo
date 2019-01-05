@@ -28,4 +28,4 @@ Get a task from consumption_input, run the task without output
 
 ### Note:
 
-You could make the demo work defining your own run methods in MyProduction and MyConsumer.
+You could make the demo work by defining your own "run" methods in MyProduction and MyConsumer.
